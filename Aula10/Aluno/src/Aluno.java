@@ -1,5 +1,5 @@
-// Nome: Nicolas
-// 1222010390
+//Nicolas
+//1222010390
 
 public class Aluno {
     // Atributos
